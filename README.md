@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my repository!
+- 💬 About me ...
+
+My name is Zlotnikov Nikolay, software engineer(full stack)
+
+I'am use React and typescript 
+....
 
 <!--
 **Pre77/pre77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
